@@ -95,5 +95,5 @@ Name: Akash Manolkar
 
 GitHub: - [AkashManolkar](https://github.com/AkashManolkar)
 
-Email: akashmanolkar85@example.com
+Email: akashmanolkar85@gmail.com
 
